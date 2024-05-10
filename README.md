@@ -3,14 +3,14 @@
 ## OVERVIEW 
 
 ## REQUIREMENTS
-Clean the data
-• Analyze the data using appropriate Excel formulas/functions
-• Create a Dashboard using Excel as well.
-• Which Month has the highest revenue?
-• Which product is the best selling in terms of qty and revenue?
-• What is the AOV(average order value)?
-• Which state did we get the most number of orders from?
-• Which state is generating the highest number of revenue?
++ Clean the data
++ Analyze the data using appropriate Excel formulas/functions
++ Create a Dashboard using Excel as well.
++ Which Month has the highest revenue?
++ Which product is the best selling in terms of qty and revenue?
++ What is the AOV(average order value)?
++ Which state did we get the most number of orders from?
++ Which state is generating the highest number of revenue?
 
 ### Steps to clean data:
 1. Change the date format to short date.
@@ -32,8 +32,9 @@ Clean the data
 7.	Created table and named it Sales data
 
 ### PIVOT TABLE
-- 1.	Created pivot table
-- 2.	To calculate the average order value, I used the DAX measures. 
-Steps:
-a.	Right click on the sales data
+1.	Created pivot table
+2.	To calculate the average order value, I used the DAX measures. 
 Average Order Value ='Sum of Revenue' / 'Count of Order ID'
+
+### VIZUALIZATION
+[Sales Dashboard](https://github.com/Pinnie232/Sales-Data-Q1-project/blob/main/excel_project.png)
