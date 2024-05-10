@@ -37,4 +37,4 @@
 Average Order Value ='Sum of Revenue' / 'Count of Order ID'
 
 ### VIZUALIZATION
-[Sales Dashboard](https://github.com/Pinnie232/Sales-Data-Q1-project/blob/main/excel_project.png)
+![Sales Dashboard](https://github.com/Pinnie232/Sales-Data-Q1-project/blob/main/excel_project.png)
